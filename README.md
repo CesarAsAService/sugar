@@ -10,5 +10,5 @@ It is compiled using [Sass](http://sass-lang.com/), and the directory strucuture
 ## how do I use it?
 "Ok, I wanna try!"
 * clone it: `https://github.com/niltoncms/sugar.git`
-* use `surgar.min.css`
+* use `sugar.min.css`
 * done.
