@@ -322,4 +322,12 @@ td,
 th {
   padding: 0; }
 
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 18px;
+  color: #333; }
+
 /*# sourceMappingURL=sugar.css.map */
